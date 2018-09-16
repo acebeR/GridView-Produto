@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GridViewProdutos</string>
+    <string name="btnComprar">Comprar</string>
+    <string name="btnVoltar">Voltar</string>
+
+</resources>
